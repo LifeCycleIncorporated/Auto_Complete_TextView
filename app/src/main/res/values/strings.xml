@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Auto Complete TextView</string>
+
+    <string-array name="countryNames">
+
+        <item>Afganisthan</item>
+        <item>India</item>
+        <item>Bangladesh</item>
+
+    </string-array>
+</resources>
